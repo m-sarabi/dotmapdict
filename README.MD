@@ -58,7 +58,7 @@ print(config.database)  # Output: {'host': 'localhost', 'password': 'secret', 's
 ```
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or issues, please contact Mohammad Sarabi.
+For any inquiries or issues, create an [issue](https://github.com/m-sarabi/dottydict/issues)
