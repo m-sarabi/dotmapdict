@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dottydict"
+version = "1.0.0"
+description = "A dictionary that supports dot notation access"
+readme = "README.MD"
+license = { file = "LICENSE" }
+keywords = ["dictionary", "dot notation", "access", "nested", "dot", "dict", "dotdict"]
+authors = [
+    { name = "Mohammad Sarabi", email = "m.sarabi.jkd@gmail.com" },
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/m-sarabi/dottydict"
+Documentation = "https://github.com/m-sarabi/dottydict"
+Repository = "https://github.com/m-sarabi/dottydict"
+Issues = "https://github.com/m-sarabi/dottydict/issues"
+Changelog = "https://github.com/m-sarabi/dottydict/blob/main/CHANGELOG.MD"
