@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "dottydict"
+name = "dotmapdict"
 version = "1.0.0"
 description = "A dictionary that supports dot notation access"
 readme = "README.MD"
@@ -15,8 +15,8 @@ authors = [
 requires-python = ">=3.8"
 
 [project.urls]
-Homepage = "https://github.com/m-sarabi/dottydict"
-Documentation = "https://github.com/m-sarabi/dottydict"
-Repository = "https://github.com/m-sarabi/dottydict"
-Issues = "https://github.com/m-sarabi/dottydict/issues"
-Changelog = "https://github.com/m-sarabi/dottydict/blob/main/CHANGELOG.MD"
+Homepage = "https://github.com/m-sarabi/dotmapdict"
+Documentation = "https://github.com/m-sarabi/dotmapdict"
+Repository = "https://github.com/m-sarabi/dotmapdict"
+Issues = "https://github.com/m-sarabi/dotmapdict/issues"
+Changelog = "https://github.com/m-sarabi/dotmapdict/blob/main/CHANGELOG.MD"

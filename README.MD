@@ -1,6 +1,6 @@
-# dottydict
+# dotmapdict
 
-`dottydict` is a Python package that enhances the standard dictionary with dot notation access. This makes it easier to work with nested dictionaries by allowing you to access and modify their elements using attribute-style access.
+`dotmapdict` is a Python package that enhances the standard dictionary with dot notation access. This makes it easier to work with nested dictionaries by allowing you to access and modify their elements using attribute-style access.
 
 ## Features
 
@@ -9,21 +9,21 @@
 - **Merge Support**: Merge another dictionary into the existing `DotDict`.
 - **Flexible Updates**: Update dictionary keys with dot notation.
 - **Convert to Standard Dictionary**: Easily convert `DotDict` instances back to standard Python dictionaries.
-- **Full Unit Test Coverage**: Comprehensive tests ensure the robustness of `dottydict`.
+- **Full Unit Test Coverage**: Comprehensive tests ensure the robustness of `dotmapdict`.
 
 ## Installation
 
-Install `dottydict` via pip:
+Install `dotmapdict` via pip:
 
 ```bash
-pip install dottydict
+pip install dotmapdict
 ```
 
 Usage
-Here's a basic example of how to use dottydict:
+Here's a basic example of how to use dotmapdict:
 
 ```python
-from dottydict import DotDict
+from dotmapdict import DotDict
 
 # Initialize a DotDict instance with nested dictionaries
 config = DotDict({"database": {"host": "localhost", "port": 5432}}, debug=True)
@@ -61,4 +61,4 @@ print(config.database)  # Output: {'host': 'localhost', 'password': 'secret', 's
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or issues, create an [issue](https://github.com/m-sarabi/dottydict/issues)
+For any inquiries or issues, create an [issue](https://github.com/m-sarabi/dotmapdict/issues)

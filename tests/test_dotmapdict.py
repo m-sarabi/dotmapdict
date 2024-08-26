@@ -1,5 +1,5 @@
 import unittest
-from dottydict import DotDict
+from dotmapdict import DotDict
 
 
 class TestDotDict(unittest.TestCase):
