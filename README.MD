@@ -1,5 +1,9 @@
 # dotmapdict
 
+![PyPI - Version](https://img.shields.io/pypi/v/dotmapdict?style=flat&labelColor=4584b6&color=ffde57)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/dotmapdict?style=flat)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/dotmapdict?style=flat)
+
 `dotmapdict` is a Python package that enhances the standard dictionary with dot notation access. This makes it easier to work with nested dictionaries by allowing you to access and modify their elements using attribute-style access.
 
 ## Features
