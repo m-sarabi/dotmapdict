@@ -19,7 +19,7 @@ Install `dotmapdict` via pip:
 pip install dotmapdict
 ```
 
-Usage
+## Usage
 Here's a basic example of how to use dotmapdict:
 
 ```python
